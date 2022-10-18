@@ -3,7 +3,6 @@
 I like computers, writing code, bitcoin, reading stuff, working out and the like. 
 
 ## Contact</br>
-Email: ``mail@angelo.one``</br>
 Discord: ``Angelo M.#8010``</br>
 <a href="https://getsession.org/">Session</a>: ``055c7d6d1bcaee1ff7372652b45f5d26f71a6f98ce44ad8ec64245ddd9bf1cf40f``</br>
 Stackexchange (bitcoin): https://bitcoin.stackexchange.com/users/134811/angelo
